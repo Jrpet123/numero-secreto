@@ -1,3 +1,5 @@
 ## ALURA 
 
-# Curso de introdução ao Html, CSS e Javascript com o jogo do numero secreto
+# Curso de introdução
+
+Jogo do número secreto utlizando Html, CSS e Javascript
