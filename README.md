@@ -2,4 +2,4 @@
 
 # Curso de introdução
 
-Jogo do número secreto utlizando Html, CSS e Javascript.
+Jogo do número secreto utilizando Html, CSS e Javascript.
